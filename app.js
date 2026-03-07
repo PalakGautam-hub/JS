@@ -76,8 +76,6 @@
 
 
 
-
-// Ans6 (Bonus)
 let num1 = 32;
 let num2 = 47852;
 
